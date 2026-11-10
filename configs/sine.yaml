@@ -1,0 +1,4 @@
+dataset: sine
+steps: 5000
+batch_size: 256
+preview_every: 500

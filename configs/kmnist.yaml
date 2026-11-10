@@ -1,0 +1,3 @@
+dataset: kmnist
+epochs: 20
+batch_size: 128

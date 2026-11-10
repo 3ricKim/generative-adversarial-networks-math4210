@@ -1,0 +1,5 @@
+dataset: gaussian_mixture
+steps: 5000
+batch_size: 256
+preview_every: 500
+learning_rate: 0.0001
